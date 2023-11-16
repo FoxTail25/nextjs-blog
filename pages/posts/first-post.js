@@ -18,14 +18,8 @@ export default function FirstPost() {
 
 
       <h1>First Post</h1>
-      <h2>
-        <Link href="/">Back to home</Link>
-      </h2>
-      {/* <Component2I /> */}
-      <p className={s.text}>
-        some text 
-        <span>some text in span</span>
-      </p>
+      <h2>React I`s good, but Next is beter</h2>
+
     </Layout>
   );
 }
